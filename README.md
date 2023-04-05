@@ -26,7 +26,7 @@ ESTRUPRO DE VULNERÁVEL
 - Pena – reclusão, de 8 a 15 anos. 
 - Incorre na mesma pena quem pratica as ações com alguém que, por enfermidade ou deficiência mental, não tem o necessário discernimento para a prática do ato, ou que, por qualquer outra causa, não pode oferecer resistência.     
 
-São pessoas vulneráveis:
+- São pessoas vulneráveis:
   - Menores de 14 anos.
   - Portadores de enfermidade ou deficiência mental, que não tenham o necessário discernimento para a prática do ato.
   - Pessoas que não podem oferecer resistência por fato anterior que impossibilite a defesa (doença incapacitante, paralisia, desmaio etc.), provocado pelo agente (sonífero ou droga na bebida etc.) ou causado por ela própria (embriaguez, uso de remédio para dormir).
