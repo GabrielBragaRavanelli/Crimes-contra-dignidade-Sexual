@@ -30,3 +30,8 @@ ESTRUPRO DE VULNERÁVEL
   - Menores de 14 anos.
   - Portadores de enfermidade ou deficiência mental, que não tenham o necessário discernimento para a prática do ato.
   - Pessoas que não podem oferecer resistência por fato anterior que impossibilite a defesa (doença incapacitante, paralisia, desmaio etc.), provocado pelo agente (sonífero ou droga na bebida etc.) ou causado por ela própria (embriaguez, uso de remédio para dormir).
+
+- Formas qualificadas:
+Se resultar:
+- a) Lesão corporal grave: Pena de reclusão, de dez a vinte anos.
+- b) Morte: Pena de reclusão, de doze a trinta anos.
